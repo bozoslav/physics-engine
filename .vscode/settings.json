@@ -1,0 +1,11 @@
+{
+    // Existing settings
+    "C_Cpp.default.includePath": [
+        "/opt/homebrew/Cellar/sfml/3.0.0_1/include", // Path to SFML headers
+        "${workspaceFolder}/**"
+    ],
+    "C_Cpp.default.compilerPath": "/opt/homebrew/bin/g++", // Use Homebrew's GCC if installed
+    "C_Cpp.default.intelliSenseMode": "macos-gcc-arm64", // Matches the compiler
+    "C_Cpp.default.cppStandard": "c++17", // Ensure C++17 is used
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools" // Optional: Use CMake Tools if applicable
+}
