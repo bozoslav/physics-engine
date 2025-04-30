@@ -160,3 +160,4 @@ int main()
 }
 
 // compile with: g++ main.cpp -I/opt/homebrew/Cellar/sfml/3.0.0_1/include/ -o app -L/opt/homebrew/Cellar/sfml/3.0.0_1/lib -lsfml-graphics -lsfml-window -lsfml-system -std=c++17
+// :3
